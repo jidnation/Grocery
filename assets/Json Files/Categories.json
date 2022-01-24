@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Cakes",
+    "view": "cakes-view",
+    "image": "assets/icons/cake.svg"
+  },
+  {
+    "name": "Fish",
+    "view": "fish-view",
+    "image": "assets/icons/fish.svg"
+  },
+  {
+    "name": "Fruit",
+    "view": "fruit-view",
+    "image": "assets/icons/fruits.svg"
+  },
+  {
+    "name": "Hand Wash",
+    "view": "handwash-view",
+    "image": "assets/icons/handWash.svg"
+  },
+  {
+    "name": "Egg & Milk",
+    "view": "eggmilk-view",
+    "image": "assets/icons/eggMilk.svg"
+  },
+
+  {
+    "name": "Ice Cream",
+    "view": "icecream-view",
+    "image": "assets/icons/iceCream.svg"
+  },
+  {
+    "name": "Juices",
+    "view": "juices-view",
+    "image": "assets/icons/juice.svg"
+  },
+  {
+    "name": "Meat",
+    "view": "meat-view",
+    "image": "assets/icons/meat.svg"
+  },
+  {
+    "name": "Sea Food",
+    "view": "seafood-view",
+    "image": "assets/icons/seaFood.svg"
+  },
+  {
+    "name": "Vegetables",
+    "view": "vegetables-view",
+    "image": "assets/icons/vegetables.svg"
+  },
+  {
+    "name": "Wine",
+    "view": "wine-view",
+    "image": "assets/icons/wine.svg"
+  }
+]
+

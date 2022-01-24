@@ -4,6 +4,9 @@ final Color kPrimaryColor = Color(0xfff99c32);
 final Color kButtonColor = Color(0xffff5e00);
 final Color kSecondaryColor = Color(0xff380a0e);
 final Color kFormColor = Color(0xffac8e71);
+final Color kHeadingColor = Color(0xff6d3805);
+final Color kShadowColor = Color(0xff929292);
+final Color kPlusColor = Color(0xff3aa14c);
 
 class SizeConfig {
   static late double screenWidth;

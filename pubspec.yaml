@@ -8,6 +8,7 @@ environment:
 dependencies: 
   cupertino_icons: ^1.0.2
   get: 4.6.1
+  flutter_svg: ^1.0.1
   font_awesome_flutter: ^9.2.0
   flutter: 
     sdk: flutter
@@ -23,3 +24,5 @@ flutter:
 
   assets:
    - assets/images/
+   - assets/icons/
+   - assets/Json Files/

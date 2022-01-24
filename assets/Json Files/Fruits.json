@@ -1,0 +1,32 @@
+[
+  {
+    "image": "assets/images/pear.png",
+    "name": "Avocado Bowl",
+    "size": "1kg",
+    "price": "3.99"
+  },
+  {
+    "image": "assets/images/apple.png",
+    "name": "Red Apple",
+    "size": "1kg",
+    "price": "4.99"
+  },
+  {
+    "image": "assets/images/banana.png",
+    "name": "Original Banana",
+    "size": "1kg",
+    "price": "5.99"
+  },
+  {
+    "image": "assets/images/strawberry.png",
+    "name": "Strawberry",
+    "size": "1kg",
+    "price": "24.0"
+  },
+  {
+    "image": "assets/images/mango.png",
+    "name": "Original Mango",
+    "size": "1kg",
+    "price": "3.99"
+  }
+]

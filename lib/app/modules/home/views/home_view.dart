@@ -9,6 +9,7 @@ class HomeView extends GetView<HomeController> {
   @override
   Widget build(BuildContext context) {
     SizeConfig().init(context);
+    print('${SizeConfig.screenWidth}, ${SizeConfig.screenHeight}');
     return Scaffold(
         body: SafeArea(
       child: ListView(children: [

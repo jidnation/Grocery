@@ -67,7 +67,7 @@ class VerificationPage extends StatelessWidget {
             ),
             const Spacer(),
             Container(
-              height: 20,
+              height: 40,
               child: ListView.builder(
                   scrollDirection: Axis.horizontal,
                   shrinkWrap: true,
